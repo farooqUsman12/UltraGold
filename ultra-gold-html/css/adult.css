@@ -1,0 +1,1682 @@
+.header {
+	background: none;
+}
+
+.container.main .banner-bg {
+	background-color: #ba0303;
+	background-image: url(../images/home-bg-01.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 50px;
+}
+
+.container.testosterone {
+	padding-top: 100px;
+	padding-bottom: 60px;
+}
+
+.container.testosterone .testosterone-supplement img {
+	width: 100%;
+}
+
+.sec-heading {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	color: #ffffff;
+}
+
+.testosterone-content {
+	padding-top: 70px;
+}
+
+.testosterone-content h2.sec-heading {
+	font-size: 59.7px;
+	line-height: 50px;
+	letter-spacing: 5px;
+	margin-bottom: 20px;
+}
+
+.testosterone-content h2.sec-heading.bottom {
+	font-size: 66px;
+	line-height: 55px;
+	margin: 0px;
+}
+
+.testosterone-content .formula {
+	width: 100%;
+}
+
+.testosterone-content .formula-text {
+	font-size: 18px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+	width: 48%;
+	float: left;
+}
+
+.testosterone-content .line {
+	border-bottom: 3px solid #ffffff;
+	width: 50%;
+	float: left;
+	margin-top: 12px;
+}
+
+.testosterone-content h3.engineered {
+	font-size: 28px;
+	font-weight: 600;
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	color: #ffffff;
+	margin: 10px 0px;
+}
+
+.testosterone-content .prodeuct-desc {
+	width: 100%;
+	float: left;
+	margin-bottom: 12px;
+}
+
+.testosterone-content .prodeuct-desc .check-mark .fa.fa-check-circle {
+	font-size: 24px;
+	color: #eec400;
+	background-color: #ba0303;
+	border-radius: 50%;
+}
+
+.testosterone-content .prodeuct-desc .p-desc {
+	font-size: 20px;
+	font-weight: 600;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+}
+
+.testosterone-content .order-now {
+	max-width: 350px;
+	width: 100%;
+	float: left;
+	padding-top: 20px;
+}
+
+.testosterone-content .order-now button {
+	width: 100%;
+	background-color: #eec400;
+	color: #000000;
+	border-radius: 115px;
+	padding: 0px 10px;
+	padding-top: 8px;
+	padding-bottom: 4px;
+	border: none;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 48px;
+	font-weight: 500;
+}
+
+.container.reasons {
+	max-width: 1640px;
+}
+
+.container.reasons .row {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.container.reasons .reason-bg {
+	width: 100%;
+	background-image: url(../images/reason-bg.png);
+	padding: 20px;
+	background-repeat: no-repeat;
+}
+
+.container.reasons h3.sec-heading {
+	font-size: 52px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.container.reasons .reason-cap {
+	font-size: 18px;
+	font-weight: 300;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+	text-align: center;
+}
+
+.container.reasons .five-reasons {
+	padding: 30px;
+}
+
+.container.reasons .five-reasons .reasons-detail {
+	padding: 0px 36px;
+	border-right: 1px solid #9b2929;
+	width: 20%;
+	float: left;
+}
+
+.container.reasons .five-reasons .reason-img {
+	margin-bottom: 15px;
+}
+
+.container.reasons .five-reasons .reason-img img {
+	width: 40px;
+	height: 40px;
+}
+
+.container.reasons .reason-cap.desc {
+	font-size: 15px;
+	text-align: left;
+	margin-bottom: 0px;
+}
+
+.for-you {
+	background-image: url(../images/for-you-bg.png);
+	background-repeat: no-repeat;
+	padding: 120px 0px;
+}
+
+.for-you .container {
+	max-width: 1230px;
+	margin-left: auto;
+	margin-right: 0px;
+	background-color: #ffffff;
+	padding: 70px 120px;
+	border-radius: 24px 0px 0px 24px;
+}
+
+.for-you .container .ultragold-for-you {
+	max-width: 800px;
+}
+
+.for-you h1.sec-heading {
+	font-size: 71px;
+	font-weight: 500;
+	color: #000000;
+}
+
+.for-you .product-performance {
+	padding-bottom: 20px;
+}
+
+.for-you .prodeuct-desc .p-desc {
+	font-size: 24px;
+	font-weight: 700;
+	font-family: 'Montserrat', sans-serif;
+	color: #000000;
+}
+
+.for-you .prodeuct-desc .play-circle .fa-play-circle {
+	font-size: 24px;
+}
+
+.for-you .paragraph {
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 26px;
+	margin-bottom: 25px;
+}
+
+.for-you .performance-detail {
+	margin-top: 60px;
+}
+
+.for-you .performance-detail h3.sec-heading {
+	font-size: 32px;
+	font-weight: 500;
+	color: #000000;
+}
+
+.for-you .performance-detail .paragraph {
+	font-size: 15px;
+}
+
+.benefits-bg {
+	background-color: #090a0b;
+}
+
+.benefits-bg .container {
+	max-width: 1470px;
+	padding: 150px 15px 180px;
+}
+
+.benefits-bg .container .row {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.benefits-bg h1.sec-heading {
+	font-size: 120px;
+	font-weight: 300;
+}
+
+.benefits-bg .benefit6 .col-xl-4.col-md-6 {
+	height: 700px;
+	background-color: #000000;
+	padding: 0px 7px;
+	max-width: 350px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.benefits-bg .benefit-detail {
+	padding: 325px 15px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	border-radius: 10px;
+}
+
+.benefits-bg .benefit-text {
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding: 12px 10px;
+	min-height: 350px;
+}
+
+.benefits-bg .benefit-text h3.sec-heading {
+	color: #000000;
+	font-size: 32px;
+	line-height: 26px;
+	margin-bottom: 25px;
+	position: relative;
+	top: 20px;
+}
+
+.benefits-bg .benefit-text .benefit-desc {
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	padding-right: 21px;
+}
+
+.benefits-bg .benefit-text .benefit-desc.rw-7 {
+	padding-right: 21px;
+	padding-top: 25px;
+}
+
+.benefits-bg .benefit-text .benefit-desc.rw-8 {
+	padding-right: 6px;
+}
+
+.uses-ing {
+	background-color: #ab0000;
+	height: 600px;
+}
+
+.uses-ing .uses-ing-img img {
+	height: 670px;
+	width: 100%;
+	position: relative;
+	top: -55px;
+}
+
+.uses-ing .tested-to {
+	padding-top: 135px;
+}
+
+.uses-ing h2.sec-heading {
+	font-size: 55px;
+	line-height: 46px;
+}
+
+.uses-ing .prodeuct-desc {
+	width: 100%;
+	float: left;
+	margin-bottom: 12px
+}
+
+.uses-ing .prodeuct-desc .check-mark .fa.fa-check-circle {
+	font-size: 22px;
+	color: #eec400;
+	background-color: #ba0303;
+	border-radius: 50%;
+}
+
+.uses-ing .prodeuct-desc .p-desc {
+	font-size: 20px;
+	font-weight: 600;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+}
+
+.undeniable {
+	background-color: #0b0d0e;
+}
+
+.undeniable .container {
+	max-width: 1370px;
+	padding: 100px 15px;
+	padding-top: 180px;
+}
+
+.undeniable .row {
+	width: 100%;
+	margin: 0 auto;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+
+.undeniable .sec-title-container {
+	width: 50%;
+}
+
+.undeniable h1.sec-heading {
+	font-size: 98px;
+	letter-spacing: 5px;
+	line-height: 100px;
+}
+
+.undeniable h1.sec-heading.bottom {
+	font-size: 146px;
+}
+
+.undeniable .row .p-desc {
+	font-size: 20px;
+	font-weight: 200;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+	line-height: 32px;
+	width: 50%;
+	padding-top: 50px;
+}
+
+.undeniable .undeniable-percentage {
+	display: flex;
+	justify-content: space-between;
+	padding: 100px 0px;
+}
+
+.undeniable .undeniable-percentage .percentage {
+	text-align: center;
+	max-width: 185px;
+}
+
+.undeniable .undeniable-percentage .perc-bg {
+	background-image: url(../images/undeniable-bg.png);
+	height: 200px;
+	background-repeat: no-repeat;
+	max-width: 185px;
+	height: 60%;
+}
+
+.undeniable .undeniable-percentage .perc-bg h4 {
+	font-size: 72px;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	color: #eec400;
+	padding-top: 20px;
+}
+
+.undeniable .undeniable-percentage .p-desc {
+	font-size: 16px;
+	font-weight: 200;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 24px;
+	color: #ffffff;
+	width: 100%;
+	padding: 0px 10px;
+}
+
+.real-success {
+	background-color: #ffffff;
+}
+
+.real-success .container {
+	max-width: 1370px;
+	padding: 100px 15px;
+}
+
+.real-success .row {
+	flex-wrap: nowrap;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.real-success h1.sec-heading {
+	color: #000000;
+	font-size: 72px;
+	line-height: 72px;
+	width: 50%;
+}
+
+.real-success .row .p-desc {
+	font-size: 20px;
+	line-height: 32px;
+	color: #000000;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	width: 50%;
+}
+
+.real-success .main-slider .slide {
+	height: 890px;
+}
+
+.real-success .main-slider .slide-1 {
+	background-color: #454d4f;
+	background-image: url(../images/slide-one.png);
+	background-size: cover;
+	background-position: center;
+	height: 890px;
+	padding: 60px 85px;
+}
+
+.real-success .slide-1 .slider-content {
+	height: 100%;
+}
+
+.real-success .slide-1 .slider-right-content {
+	max-width: 600px;
+	margin-left: auto;
+	display: flex;
+	height: 100%;
+}
+
+.real-success .slide-1 .slider-right-content .bang-buck {
+	background-color: #ffffff;
+	padding: 150px 70px;
+	max-width: 475px;
+	margin-left: auto;
+	border-radius: 10px;
+}
+
+.bang-buck .stars .fa.fa-star {
+	color: #ecc400;
+}
+
+.bang-buck h3.sec-heading {
+	font-size: 28px;
+	color: #000000;
+}
+
+.bang-buck h5.sec-heading {
+	font-size: 20px;
+	color: #000000;
+}
+
+.slick-next.slick-arrow {
+	position: absolute;
+	bottom: 10%;
+	left: 270px;
+	background-color: #eec400;
+	color: #ffffff;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	border: none;
+	text-indent: -9999em;
+}
+
+.slick-next.slick-arrow::after {
+	content: ">";
+	color: #fff;
+	float: left;
+	font-size: 32px;
+	line-height: 55px;
+	margin: 0;
+	text-indent: 0;
+	width: 60px;
+	height: 60px;
+	margin-left: -6px;
+}
+
+.slick-prev.slick-arrow {
+	position: absolute;
+	top: 83.2%;
+	left: 190px;
+	background-color: #dadada;
+	color: #ffffff;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	z-index: 44444;
+	border: none;
+	text-indent: -9999em;
+}
+
+.slick-prev.slick-arrow::after {
+	content: "<";
+	color: #fff;
+	float: left;
+	font-size: 32px;
+	line-height: 55px;
+	margin: 0;
+	text-indent: 0;
+	width: 60px;
+	height: 60px;
+	margin-left: -6px;
+}
+
+.about-performance {
+	background-color: #000000;
+}
+
+.about-performance .container {
+	max-width: 1370px;
+	padding: 100px 15px;
+}
+
+.about-performance .supplement img {
+	width: 100%;
+	height: 100%;
+}
+
+.about-performance h1.sec-heading {
+	font-size: 62px;
+	line-height: 62px;
+	color: #ffffff;
+	margin-bottom: 25px;
+	padding-right: 160px;
+}
+
+
+.about-performance .p-desc {
+	font-size: 16px;
+	line-height: 28px;
+	color: #ffffff;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 25px;
+}
+
+.about-performance .p-desc .fa-play-circle {
+	color: #eec400;
+	background-color: #000000;
+}
+
+.about-performance .p-desc .text {
+	padding-left: 20px;
+}
+
+.container.main .banner-bg.same {
+	background-image: url(../images/banner-same.png);
+	background-repeat: no-repeat;
+	background-size: 1100px;
+	background-color: #ac0101;
+}
+
+.banner-bg.same .container {
+	max-width: 1230px;
+}
+
+.banner-bg.same .container.testosterone .testosterone-supplement img {
+	width: 85%;
+}
+
+.banner-bg.same .testosterone-content {
+	padding-top: 120px;
+}
+
+.banner-bg.same .testosterone-content h2.sec-heading {
+	font-size: 53px;
+	letter-spacing: 0px;
+	line-height: 60px;
+	margin-bottom: 0px;
+}
+
+.banner-bg.same .testosterone-content h2.sec-heading.bottom {
+	font-size: 80px;
+	margin-bottom: 25px;
+}
+
+.banner-bg.same .testosterone-content .p-desc {
+	font-size: 20px;
+	line-height: 32px;
+	color: #ffffff;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 25px;
+}
+
+.banner-bg.same .reasons {
+	max-width: 1360px;
+}
+
+.banner-bg.same .container.reasons h3.sec-heading {
+	font-size: 42px;
+}
+
+.banner-bg.same .container.reasons .five-reasons .reasons-detail {
+	text-align: center;
+	padding: 0 5px;
+}
+
+.banner-bg.same .container.reasons .reason-cap.desc {
+	font-size: 15px;
+	font-weight: 300;
+	text-align: center;
+}
+
+.ingredients {
+	background-image: url(../images/ingredient-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.ingredients .container {
+	max-width: 1360px;
+	padding: 100px 15px;
+	text-align: center;
+}
+
+.ingredients h1.sec-heading {
+	font-size: 82px;
+}
+
+.ingredients .col-12 .p-desc {
+	font-size: 20px;
+	line-height: 28px;
+	color: #ffffff;
+	font-weight: 400;
+	font-family: 'Montserrat', sans-serif;
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+.ingredients .combinations {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 50px 0px;
+}
+
+.ingredients .combinations .formulation {
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 300px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+	padding: 78px 36px;
+}
+
+.ingredients .combinations .formulation .formula-img {
+	height: 275px;
+}
+
+.ingredients h3.sec-heading {
+	font-size: 32px;
+}
+
+.ingredients .combinations .p-desc {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+}
+
+.satisfaction {
+	background-color: #0b0d0e;
+}
+
+.satisfaction .container {
+	max-width: 1360px;
+	padding: 100px 15px;
+	text-align: center;
+}
+
+.satisfaction .row {
+	width: 100%;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+
+
+.satisfaction h3.sec-heading {
+	font-size: 42px;
+	margin: 25px 0;
+}
+
+.satisfaction .col-lg-6 .p-desc {
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	font-weight: 200;
+}
+
+.satisfaction .p-desc {
+	max-width: 810px;
+	margin: 40px auto;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	font-weight: 200;
+}
+
+.sec-last {
+	background-color: #171c23;
+}
+
+.sec-last .order-product {
+	max-width: 1360px;
+	padding: 50px 15px 70px;
+}
+
+.sec-last .row {
+	width: 100%;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+
+.order-product .product-img {
+	margin: 0 auto 30px;
+}
+
+.container.order-product .product-img img {
+	width: 100%;
+}
+
+.container.order-product p.price {
+	font-family: 'Bebas Neue', cursive;
+	color: #ffffff;
+	font-size: 42px;
+	line-height: 28px;
+	margin: 15px 0px;
+}
+
+.container.order-product p.prodeuct-desc {
+	display: flex;
+}
+
+.container.order-product p.prodeuct-desc span.check-mark {
+	padding-top: 6px;
+}
+
+.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+	font-size: 30px;
+	color: #000000;
+	background-color: #eec400;
+	border-radius: 50%;
+}
+
+.container.order-product p.prodeuct-desc .p-desc {
+	font-size: 32px;
+	font-weight: 500;
+	font-family: 'Bebas Neue', cursive;
+	color: #ffffff;
+	padding-left: 10px;
+}
+
+h3.get-start {
+	font-size: 32px;
+	line-height: 28px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.container.order-product .owner .check-mark {
+	margin-top: -10px;
+}
+
+.container.order-product .owner p.prodeuct-desc .p-desc {
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
+
+.container.order-product .owner {
+	display: flex;
+}
+
+.sec-last .order-now {
+	max-width: 350px;
+	width: 100%;
+	float: left;
+	padding-top: 20px;
+}
+
+.sec-last .order-now button {
+	width: 100%;
+	background-color: #eec400;
+	color: #000000;
+	border-radius: 115px;
+	padding: 0px 10px;
+	padding-top: 8px;
+	padding-bottom: 4px;
+	border: none;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 48px;
+	font-weight: 500;
+}
+
+.sec-last .bottom-text {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #6e7b93;
+	background-color: #1c212a;
+	border: 1px solid #282f3b;
+	border-radius: 8px;
+	max-width: 640px;
+	margin: 0 auto;
+	margin-top: 80px;
+	padding: 20px 30px;
+	text-align: center;
+}
+
+@media (min-width: 1740px) {
+	.about-performance .supplement img {
+		width: 130%;
+	}
+}
+
+@media (min-width: 1400px) {
+	.benefits-bg .benefit6 .col-xl-4.col-md-6 {
+		max-width: 440px;
+	}
+
+	.benefits-bg .benefit-text {
+		padding: 20px 30px;
+	}
+
+	.satisfaction .col-lg-6 {
+		max-width: 47%;
+	}
+
+	.sec-last .col-lg-6 {
+		max-width: 48%;
+	}
+}
+
+@media (max-width:1399px) {
+	.for-you .container {
+		max-width: 830px;
+		padding: 30px 50px;
+	}
+
+	.for-you .container .ultragold-for-you {
+		max-width: 750px;
+	}
+}
+
+@media (max-width:1300px) {
+	.container.reasons .five-reasons .reasons-detail {
+		padding: 0px 15px;
+	}
+}
+
+@media (max-width:1199px) {
+	.container.reasons .reason-bg {
+		background-image: none;
+		background-color: #8c0707;
+		padding: 10px;
+	}
+
+	.container.reasons .five-reasons {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 15px;
+	}
+
+	.container.reasons .five-reasons .reasons-detail {
+		width: 49%;
+		margin-bottom: 25px;
+		min-height: 100px;
+	}
+
+	.container.reasons .five-reasons .reasons-detail.bd-lg {
+		border: none;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+		font-size: 26px;
+	}
+
+	.container.order-product p.prodeuct-desc .p-desc {
+		font-size: 28px;
+	}
+
+	h3.get-start {
+		font-size: 25px;
+	}
+
+	.container.order-product .owner p.prodeuct-desc .p-desc {
+		font-size: 14px;
+	}
+
+	.uses-ing .prodeuct-desc .p-desc {
+		font-size: 18px;
+	}
+}
+
+@media (max-width:1079px) {
+	.benefits-bg .container .row {
+		justify-content: center;
+	}
+
+	.benefits-bg .benefit6 .col-xl-4.col-md-6 {
+		margin: 0 20px;
+		margin-bottom: 50px;
+	}
+}
+
+
+@media (max-width:1024px) {
+	.undeniable .row {
+		display: block;
+	}
+
+	.undeniable .sec-title-container {
+		width: 100%;
+	}
+
+	.undeniable .row .p-desc {
+		width: 100%;
+	}
+
+	.undeniable .undeniable-percentage {
+		flex-wrap: wrap;
+		max-width: 375px;
+		margin: 0 auto;
+		padding: 25px 0px;
+	}
+
+	.undeniable .undeniable-percentage .percentage {
+		margin: 0 auto;
+		margin-bottom: 35px;
+	}
+}
+
+
+@media (max-width:991px) {
+	.container.testosterone .row {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.testosterone .testosterone-supplement {
+		max-width: 500px;
+		margin: 0 auto;
+	}
+
+	.testosterone-content h2.sec-heading {
+		font-size: 71px;
+	}
+
+	.testosterone-content h2.sec-heading.bottom {
+		font-size: 78px;
+	}
+
+	.testosterone-content .formula-text {
+		width: 43%;
+	}
+
+	.for-you .container {
+		padding: 30px 50px;
+		margin: 0 auto;
+		border-radius: 0px;
+	}
+
+	.for-you .container .ultragold-for-you {
+		max-width: 100%;
+	}
+
+	.uses-ing {
+		height: auto;
+	}
+
+	.uses-ing .container {
+		padding: 60px 15px;
+	}
+
+	.uses-ing .uses-ing-img img {
+		position: unset;
+	}
+
+	.uses-ing .tested-to {
+		padding-top: 50px;
+	}
+
+	.undeniable .container {
+		padding: 100px 15px;
+	}
+
+	.about-performance h1.sec-heading {
+		padding: 0px;
+		margin-top: 60px;
+	}
+
+	.satisfaction .col-lg-6 {
+		margin-bottom: 30px;
+	}
+
+
+
+
+
+
+	.real-success .container {
+		max-width: 700px;
+	}
+
+	.real-success h1.sec-heading {
+		font-size: 46px;
+		line-height: 40px;
+	}
+
+	.real-success .row .p-desc {
+		font-size: 14px;
+		line-height: 15px;
+	}
+
+	.real-success .main-slider .slide-1 {
+		background-position-y: -91px;
+		background-position-x: -150px;
+		padding: 15px 0px;
+		height: 615px;
+	}
+
+	.real-success .slide-1 .slider-right-content {
+		height: auto;
+	}
+
+	.real-success .slide-1 .slider-right-content .bang-buck {
+		padding: 30px 40px;
+	}
+
+	.slick-prev.slick-arrow {
+		top: 86.2%;
+	}
+
+	.slick-next.slick-arrow {
+		bottom: 4%;
+	}
+}
+
+@media (max-width:767px) {
+	.container.main .banner-bg {
+		background-position-x: 70%;
+	}
+
+	.testosterone-content {
+		padding-top: 40px;
+	}
+
+	.testosterone-content h2.sec-heading {
+		font-size: 42px;
+		margin-bottom: 3px;
+		line-height: 42px;
+	}
+
+	.testosterone-content h2.sec-heading.bottom {
+		font-size: 47px;
+		line-height: 42px;
+	}
+
+	.testosterone-content .formula-text {
+		width: 43%;
+		font-size: 14px;
+	}
+
+	.testosterone-content .line {
+		width: 41%;
+	}
+
+	.testosterone-content h3.engineered {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.testosterone-content .prodeuct-desc .check-mark .fa.fa-check-circle {
+		font-size: 14px;
+	}
+
+	.testosterone-content .prodeuct-desc .p-desc {
+		font-size: 14px;
+	}
+
+	.testosterone-content .order-now {
+		max-width: 200px;
+	}
+
+	.testosterone-content .order-now button {
+		font-size: 24px;
+	}
+
+	.for-you {
+		padding: 55px 0px;
+	}
+
+	.for-you .container {
+		max-width: 450px;
+		padding: 20px 40px;
+	}
+
+	.for-you h1.sec-heading {
+		font-size: 34px;
+	}
+
+	.for-you .product-performance .prodeuct-desc {
+		margin-bottom: 5px;
+	}
+
+	.for-you .prodeuct-desc .play-circle .fa-play-circle,
+	.for-you .prodeuct-desc .p-desc {
+		font-size: 14px;
+	}
+
+	.for-you .paragraph {
+		font-size: 11px;
+		line-height: 15px;
+		margin-bottom: 12px;
+	}
+
+	.for-you .performance-detail {
+		margin-top: 18px;
+	}
+
+	.for-you .performance-detail h3.sec-heading {
+		font-size: 22px;
+	}
+
+	.for-you .performance-detail .paragraph {
+		font-size: 10px;
+	}
+
+	.benefits-bg .container {
+		padding: 70px 15px;
+	}
+
+	.benefits-bg h1.sec-heading {
+		font-size: 76px;
+	}
+
+	.benefits-bg .benefit6 .col-xl-4.col-md-6 {
+		height: 500px;
+	}
+
+	.benefits-bg .benefit-text {
+		min-height: 280px;
+	}
+
+	.benefits-bg .benefit-text h3.sec-heading {
+		top: 5px;
+		margin-bottom: 12px;
+	}
+
+	.benefits-bg .benefit-text h3.sec-heading .md-sc {
+		display: none;
+	}
+
+	.benefits-bg .benefit-text .benefit-desc {
+		line-height: 21px;
+	}
+
+	.benefits-bg .benefit-text .benefit-desc.rw-7 {
+		padding-right: 0px;
+		padding-top: 0px;
+	}
+
+	.benefits-bg .benefit-detail {
+		padding: 170px 15px 0px;
+	}
+
+	.uses-ing .uses-ing-img img {
+		height: 500px;
+	}
+
+	.undeniable h1.sec-heading {
+		font-size: 54px;
+		line-height: 50px;
+	}
+
+	.undeniable h1.sec-heading.bottom {
+		font-size: 86px;
+	}
+
+	.banner-bg.same .testosterone-content {
+		padding-top: 50px;
+	}
+
+	.banner-bg.same .testosterone-content h2.sec-heading {
+		font-size: 36px;
+		line-height: 38px;
+	}
+
+	.banner-bg.same .testosterone-content h2.sec-heading.bottom {
+		font-size: 54px;
+		margin-bottom: 15px;
+	}
+
+	.banner-bg.same .testosterone-content .p-desc {
+		font-size: 14px;
+		line-height: 18px;
+		margin-bottom: 20px;
+	}
+
+	.ingredients h1.sec-heading {
+		font-size: 54px;
+	}
+
+	.ingredients .col-12 .p-desc {
+		font-size: 12px;
+		line-height: 18px;
+	}
+
+	.gua-int img {
+		width: 50%;
+	}
+
+	.real-success .row {
+		display: block;
+	}
+
+	.real-success h1.sec-heading,
+	.real-success .row .p-desc {
+		width: 100%;
+	}
+}
+
+
+@media (max-width:600px) {
+	.real-success .main-slider .slide-1 {
+		background-position-x: 0px;
+	}
+
+	.real-success .slide-1 .slider-right-content {
+		max-width: 300px;
+		margin: 0 auto;
+		padding-top: 200px;
+	}
+
+	.real-success .slide-1 .slider-right-content .bang-buck {
+		padding: 15px 10px;
+	}
+
+	.bang-buck .p-desc {
+		font-size: 10px;
+		line-height: 14px;
+	}
+}
+
+
+
+@media (max-width:570px) {
+	.order-product .product-img {
+		max-width: 450px;
+	}
+
+	.container.order-product p.price {
+		font-size: 36px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+		font-size: 22px;
+	}
+
+	.container.order-product p.prodeuct-desc .p-desc {
+		font-size: 24px;
+	}
+
+	.container.reasons .five-reasons {
+		display: block;
+		margin-top: 30px;
+	}
+
+	.container.reasons .five-reasons .reasons-detail {
+		width: 100%;
+		border: 0;
+		text-align: center;
+	}
+
+	.container.reasons .reason-cap.desc {
+		text-align: center;
+	}
+
+	h3.get-start {
+		font-size: 22px;
+	}
+
+	.uses-ing .container {
+		padding: 40px 15px;
+	}
+
+	.uses-ing h2.sec-heading {
+		font-size: 33px;
+		line-height: 28px;
+		margin-bottom: 18px;
+	}
+
+	.uses-ing .prodeuct-desc {
+		margin-bottom: 5px;
+	}
+
+	.uses-ing .prodeuct-desc .p-desc {
+		font-size: 14px;
+	}
+
+	.ingredients .container {
+		padding: 50px 15px;
+	}
+
+	.ingredients .combinations {
+		padding: 30px 0px 0px;
+	}
+
+	.real-success .container {
+		padding: 50px 15px;
+	}
+}
+
+@media (max-width:470px) {
+	.testosterone-content h2.sec-heading {
+		letter-spacing: 1px;
+	}
+
+	.testosterone-content .formula-text {
+		width: 40%;
+		font-size: 11px;
+	}
+
+	.testosterone-content .line {
+		margin-top: 9px;
+	}
+
+	.uses-ing .uses-ing-img img {
+		height: 400px;
+	}
+
+	.about-performance h1.sec-heading {
+		font-size: 28px;
+		line-height: 36px;
+	}
+
+	.about-performance .p-desc {
+		font-size: 13px;
+		line-height: 18px;
+		margin-bottom: 15px;
+	}
+
+	.about-performance .p-desc .text {
+		padding-left: 0px;
+	}
+
+	.about-performance .p-desc.mb-0 {
+		margin-bottom: 10px !important;
+	}
+
+	.banner-bg.same .testosterone-content h2.sec-heading {
+		font-size: 23px;
+		line-height: 26px;
+	}
+
+	.banner-bg.same .testosterone-content h2.sec-heading.bottom {
+		font-size: 35px;
+	}
+
+	.banner-bg.same .testosterone-content .p-desc {
+		font-size: 12px;
+		line-height: 15px;
+		margin-bottom: 15px;
+	}
+
+	.ingredients .combinations .formulation {
+		max-width: 235px;
+		padding: 5px 15px;
+	}
+
+	.ingredients .combinations .p-desc {
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	.satisfaction h3.sec-heading {
+		font-size: 32px;
+		margin: 15px 0;
+	}
+
+	.satisfaction .col-lg-6 .p-desc,
+	.satisfaction .p-desc {
+		font-size: 13px;
+		line-height: 18px;
+		margin: 15px 0;
+
+	}
+
+	.real-success h1.sec-heading {
+		font-size: 32px;
+		line-height: 26px;
+	}
+
+	.real-success .row .p-desc {
+		font-size: 10px;
+		line-height: 12px;
+	}
+
+	.real-success .main-slider .slide-1 {
+		height: 500px;
+	}
+
+	.real-success .slide-1 .slider-right-content {
+		max-width: 280px;
+		padding-top: 110px;
+	}
+
+	.slick-prev.slick-arrow {
+		top: 87%;
+		left: 140px;
+		width: 40px;
+		height: 40px;
+	}
+
+	.slick-next.slick-arrow {
+		left: 200px;
+		width: 40px;
+		height: 40px;
+		bottom: 5%;
+	}
+
+	.slick-prev.slick-arrow::after {
+		font-size: 24px;
+		line-height: 41px;
+		margin: 0;
+		text-indent: 0;
+		width: 40px;
+		height: 40px;
+		margin-left: -8px;
+	}
+
+	.slick-next.slick-arrow::after {
+		font-size: 24px;
+		line-height: 41px;
+		width: 40px;
+		height: 40px;
+		margin-left: -6px;
+	}
+}
+
+@media (max-width:450px) {
+	.order-product {
+		padding: 0px 15px 70px;
+	}
+
+	.order-product .product-img {
+		max-width: 200px;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+
+	.container.order-product p.price {
+		font-size: 33px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+		font-size: 18px;
+	}
+
+	.container.order-product p.prodeuct-desc .p-desc {
+		font-size: 20px;
+	}
+
+	h3.get-start {
+		font-size: 14px;
+		margin-top: 18px;
+		margin-bottom: 12px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark {
+		width: 24px;
+		height: 20px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark img {
+		width: 100%;
+	}
+
+	.container.order-product .owner p.prodeuct-desc .p-desc {
+		font-size: 10px;
+		padding-left: 5px;
+	}
+
+	.for-you .container {
+		max-width: 265px;
+		padding: 25px;
+	}
+
+	.for-you h1.sec-heading {
+		font-size: 26px;
+	}
+
+	.for-you .product-performance .prodeuct-desc {
+		margin-bottom: -6px;
+	}
+
+	.for-you .prodeuct-desc .play-circle .fa-play-circle,
+	.for-you .prodeuct-desc .p-desc {
+		font-size: 11px;
+	}
+
+	.for-you .paragraph {
+		font-size: 10px;
+	}
+
+	.benefits-bg h1.sec-heading {
+		font-size: 28px;
+	}
+
+	.benefits-bg .benefit6 .col-xl-4.col-md-6 {
+		height: 350px;
+	}
+
+	.benefits-bg .benefit-detail {
+		padding: 135px 15px 0px;
+	}
+
+	.benefits-bg .benefit-text {
+		min-height: 200px;
+	}
+
+	.benefits-bg .benefit-text h3.sec-heading {
+		font-size: 20px;
+		margin-bottom: 12px;
+	}
+
+	.benefits-bg .benefit-text .benefit-desc {
+		font-size: 11px;
+		line-height: 16px;
+		margin-bottom: 0px;
+	}
+
+	.uses-ing h2.sec-heading {
+		font-size: 28px;
+	}
+}
+
+@media (max-width:424px) {
+	.real-success .main-slider .slide-1 {
+		height: 450px;
+		background-position-y: -1px;
+	}
+
+	.real-success .slide-1 .slider-right-content {
+		max-width: 215px;
+		padding-top: 75px;
+	}
+
+	.bang-buck h3.sec-heading {
+		font-size: 24px;
+	}
+
+	.bang-buck .p-desc {
+		font-size: 9px;
+		line-height: 11px;
+		margin-bottom: 5px;
+	}
+
+	.slick-next.slick-arrow {
+		left: 160px;
+	}
+
+	.slick-prev.slick-arrow {
+		top: 86%;
+		left: 85px;
+	}
+}
+
+@media (max-width:399px) {
+	.testosterone-content h2.sec-heading {
+		font-size: 30px;
+		line-height: 24px;
+	}
+
+	.testosterone-content h2.sec-heading.bottom {
+		font-size: 32.6px;
+		line-height: 26px;
+	}
+
+	.testosterone-content .formula-text {
+		width: 50%;
+		font-size: 9px;
+		margin-bottom: 5px;
+	}
+
+	.testosterone-content .line {
+		margin-top: 6px;
+	}
+
+	.testosterone-content h3.engineered {
+		font-size: 12px;
+		margin-bottom: 8px;
+		margin-top: 0px;
+	}
+
+	.testosterone-content .prodeuct-desc {
+		margin-bottom: 0px;
+	}
+
+	.testosterone-content .prodeuct-desc .check-mark .fa.fa-check-circle {
+		font-size: 10px;
+	}
+
+	.testosterone-content .prodeuct-desc .p-desc {
+		font-size: 10px;
+	}
+
+	.benefits-bg .benefit-detail {
+		padding-top: 75px;
+	}
+
+	.undeniable .container {
+		padding: 50px 15px;
+	}
+
+	.undeniable h1.sec-heading {
+		font-size: 36px;
+		line-height: 34px;
+	}
+
+	.undeniable h1.sec-heading.bottom {
+		font-size: 61px;
+	}
+
+	.undeniable .row .p-desc {
+		font-size: 13px;
+		padding-top: 20px;
+		line-height: 18px;
+	}
+}
+
+

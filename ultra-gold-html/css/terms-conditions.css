@@ -1,0 +1,33 @@
+.terms-conditions {
+	padding-top: 70px;
+    padding-bottom: 140px;
+}
+
+.terms-conditions h1 {
+	font-size: 48px;
+	font-family: 'Bebas Neue', sans-serif;
+	color: #212529;
+	font-weight: 400;
+	text-decoration: underline;
+}
+
+.terms-conditions h4 {
+	font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 30px;
+    margin-bottom: 0px;
+    font-size: 24px;
+    color: #212529;
+}
+
+.terms-conditions p, .terms-conditions ul, .terms-conditions ul li {
+	font-weight: 400;
+    font-family: "Montserrat";
+    font-size: 14px;
+    color: #212529;
+    word-break: break-all;
+}
+
+.terms-conditions p a {
+	color: #0876ec;
+}

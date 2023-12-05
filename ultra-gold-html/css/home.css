@@ -1,0 +1,1455 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@font-face {
+  	font-family: BebasNeue-Regular;
+  	src: url('../fonts/bebasNeue-Regular/BebasNeue-Regular.eot');
+  	src: url('../fonts/bebasNeue-Regular/BebasNeue-Regular.otf');
+  	src: url('../fonts/bebasNeue-Regular/BebasNeue-Regular.ttf');
+  	src: url('../fonts/bebasNeue-Regular/BebasNeue-Regular.woff');
+  	src: url('../fonts/bebasNeue-Regular/BebasNeue-Regular.woff2');
+}
+
+@font-face {
+  	font-family: Montserrat-Black;
+  	src: url('../fonts/Montserrat/Montserrat-Black.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-Bold;
+  	src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-ExtraBold;
+  	src: url('../fonts/Montserrat/Montserrat-ExtraBold.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-ExtraLight;
+  	src: url('../fonts/Montserrat/Montserrat-ExtraLight.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-Light;
+  	src: url('../fonts/Montserrat/Montserrat-Light.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-Medium;
+  	src: url('../fonts/Montserrat/Montserrat-Medium.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-Regular;
+  	src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-SemiBold;
+  	src: url('../fonts/Montserrat/Montserrat-SemiBold.ttf');
+}
+
+@font-face {
+  	font-family: Montserrat-Thin;
+  	src: url('../fonts/Montserrat/Montserrat-Thin.ttf');
+}
+
+.page-site {
+	max-width: 100%;
+}
+
+header {
+	background-image: url('../images/header-bg.png');
+    padding-top: 40px;
+    padding-bottom: 120px;
+    background-color: #1a1e26;
+    background-repeat: no-repeat; 
+}
+
+header nav .navbar-collapse {
+	position: absolute;
+	margin-top: 170px;
+	width: 92%;
+}
+
+header nav .navbar-collapse .navbar-nav li {
+	border-bottom: 1px solid #ffffff5c;
+}
+
+header nav .navbar-collapse .navbar-nav .nav-link {
+	color: #fff;
+}
+
+header nav .navbar-brand img {
+	width: 200px;
+}
+
+header .header-bottle-container {
+	text-align: center;
+}
+
+header .header-bottle-container img {
+	width: 100%;
+	max-width: 520px;
+}
+
+header .header-title h2 {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 40px;
+	color: #fff;
+	line-height: 1;
+	margin-bottom: 0;
+}
+
+header .header-title .header-testostream-p {
+	font-size: 14px;
+	font-family: 'Montserrat-SemiBold', sans-serif;
+	color: #fff;
+	line-height: 1;
+	margin-bottom: 0;
+}
+
+header .header-title .header-testostream-p span.border-line {
+	content: '';
+    width: 274px;
+    height: 5px;
+    background-color: #fff;
+    display: inline-block;
+    position: relative;
+    top: 5px;
+}
+
+header .header-main-content {
+	margin-top: 104px;
+}
+
+header .header-main-content .header-details {
+	margin-top: 33px;
+	margin-bottom: 30px;
+}
+
+header .header-main-content .header-details h4 {
+	color: #fff;
+	font-family: 'Montserrat-Bold', sans-serif;
+	font-size: 18px;
+}
+
+header .header-main-content .header-details .header-details-info {
+	margin-top: 30px;
+}
+
+header .header-main-content .header-details .header-details-info .information {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 15px;
+	color: #fff;
+	margin-bottom: 11px;
+}
+
+header .header-main-content .header-details .header-details-info .buy-now {
+	background-color: #eec400;
+	height: 60px;
+	width: 100%;
+	border-radius: 5px;
+	color: #000;
+	font-size: 30px;
+	line-height: 1;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	border: none;
+	margin-top: 30px;
+}
+
+
+
+
+header nav .bag-img {
+	display: none;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.reason-section {
+	background-color: #0b0d0e;
+	padding-bottom: 106px;
+}
+
+.reason-section .reason-title {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+	line-height: 1;
+	margin-bottom: 0;
+	margin-top: 78px;
+	line-height: 1;
+}
+
+.reason-section .reason-title-plain {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 16px;
+	text-align: center;
+	line-height: 26px;
+}
+
+.reason-section .reason-section-items {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	margin-top: 70px;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+.reason-section .reason-section-items .reason-section-item {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.reason-section .reason-section-items .reason-section-item p {
+	font-size: 16px;
+	color: #fff;
+	font-family: 'Montserrat-Regular', sans-serif;
+	text-align: center;
+	line-height: 22px;
+	margin-top: 22px;
+	margin-bottom: 0;
+}
+
+.what-ultra-gold {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.what-ultra-gold .what-ultra-gold-details .ultra-gold-title {
+	font-size: 44px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #000;
+	line-height: 1;
+	margin-bottom: 24px;
+}
+
+.what-ultra-gold .what-ultra-gold-details .what-ultra-gold-items {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: 'Montserrat-Bold', sans-serif;
+	line-height: 42px;
+}
+
+.what-ultra-gold .what-ultra-gold-details .what-ultra-plain {
+	margin-top: 36px;
+}
+
+.what-ultra-gold .what-ultra-gold-details .what-ultra-plain p {
+	font-size: 18px;
+	font-family: 'Montserrat-Regular', sans-serif;
+	color: #000;
+	line-height: 32px;
+	margin-bottom: 36px;
+}
+
+.what-ultra-gold .what-ultra-gold-articles .what-article-item {
+	background-color: #1c212a;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 10px 10px 18px -10px #1c212a;
+            box-shadow: 10px 10px 18px -10px #1c212a;
+}
+
+.what-ultra-gold .what-ultra-gold-articles .what-article-item h3 {
+	text-transform: uppercase;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 32px;
+	color: #eec400;
+}
+
+.what-ultra-gold .what-ultra-gold-articles .what-article-item p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	line-height: 24px;
+}
+
+.six-benefits-gold {
+	background-color: #0b0d0e;
+	padding-bottom: 135px;
+}
+
+.six-benefits-gold .six-benefits-heading {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #fff;
+	text-align: center;
+	padding-top: 140px;
+}
+
+.six-benefits-gold .six-benefits-heading h2 {
+	font-size: 66px;
+	margin-bottom: 0;
+	line-height: 0.6;
+}
+
+.six-benefits-gold .six-benefits-heading h3 {
+	font-size: 36px;
+	margin-bottom: 0;
+}
+
+.six-benefits-gold .six-benefits-cards {
+	margin-top: 70px;
+}
+
+.six-benefits-gold .six-benefits-cards .six-benefits-card-item {
+	margin-bottom: 55px;
+}
+
+.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content {
+	color: #000;
+	background-color: #fff;
+	padding-left: 20px;
+	padding-top: 65px;
+	padding-right: 20px;
+	padding-bottom: 50px;
+	border-radius: 10px 10px 0 0;
+}
+
+.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content h5 {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 32px;
+	text-align: left;
+	text-transform: uppercase;
+	margin-bottom: 0;
+	line-height: 1;
+	height: 75px;
+}
+
+.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	margin-bottom: 0;
+	height: 160px;
+}
+
+.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-card-img {
+	max-height: 286px;
+	border-radius: 0 0 10px 10px;
+	overflow: hidden;
+}
+
+.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-card-img img {
+	width: 100%;
+}
+
+.ultra-gold-ingredients {
+	background-color: #19202f;
+	background-image: url('../images/ultra-gold-ingredients.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding-top: 98px;
+    padding-bottom: 80px;
+    position: relative;
+}
+
+.ultra-gold-ingredients h2 {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 28px;
+	margin-bottom: 20px;
+	line-height: 0.9;
+	margin-top: 50px;
+}
+
+.ultra-gold-ingredients p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	margin-bottom: 12px;
+}
+
+.ultra-gold-ingredients .ingredient-bottle {
+	margin-top: -160px;
+}
+
+.ultra-gold-ingredients .ingredient-bottle img {
+	width: 100%;
+}
+
+.ultra-gold-benefits {
+	background-color: #0b0d0e;
+	padding-top: 90px;
+	padding-bottom: 40px;
+}
+
+.ultra-gold-benefits .benefits-headeing {
+	color: #fff;
+	text-align: center;
+	max-width: 720px;
+	margin: 0 auto;
+	padding-bottom: 85px;
+}
+
+.ultra-gold-benefits .benefits-headeing h2 {
+	font-size: 50px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	line-height: 1;
+	margin-bottom: 25px;
+}
+
+.ultra-gold-benefits .benefits-headeing p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	margin-bottom: 0;
+}
+
+.ultra-gold-benefits .benefits-items {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+.ultra-gold-benefits .benefits-items .benefit-item {
+	text-align: center;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.ultra-gold-benefits .benefits-items .benefit-item img {
+	margin-bottom: 25px;
+	width: 200px;
+}
+
+.ultra-gold-benefits .benefits-items .benefit-item p {
+	text-align: center;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.ultra-gold-real-success {
+	padding-top: 114px;
+	padding-bottom: 140px;
+}
+
+.ultra-gold-real-success .heading-content {
+	max-width: 850px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.ultra-gold-real-success .heading-content h2 {
+	color: #000000;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 0;
+	line-height: 0.9;
+}
+
+.ultra-gold-real-success .heading-content p {
+	font-family: 'Montserrat-SemiBold', sans-serif;
+	font-size: 16px;
+	color: #000;
+	margin-top: 5px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content {
+	padding: 48px 20px;
+	border: 1px solid #ebebeb;
+	border-radius: 10px;
+	margin-top: 54px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .success-image img {
+	width: 100%;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner h6 {
+	font-size: 28px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #000;
+	margin-top: 10px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner .plain-content {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 14px;
+	color: #000;
+	line-height: 24px;
+	margin-top: 20px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide {
+	position: relative;
+	
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner p.author {
+	font-size: 20px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #000;
+	margin-top: 30px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner p.pages {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Montserrat-Bold', sans-serif;
+	text-align: right;
+	color: #000;
+	margin-top: 50px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner p.pages .inactive {
+	color: #b8b8b8;
+	font-size: 12px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-next, .ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-prev {
+	height: 58px;
+	width: 58px;
+	border-radius: 58px;
+	opacity: 1;
+	position: absolute;
+	top: 90%;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-next span, .ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-prev span {
+	background-image: none !important;
+	width: 58px;
+    height: 58px;
+    line-height: 52px;
+    text-align: center;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-next {
+	background-color: #eec400;
+	left: 70px;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-prev {
+	background-color: #dadada;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-next span .fa, .ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-prev span .fa {
+	font-size: 32px;
+	width: 58px;
+    height: 58px;
+    line-height: 52px;
+    text-align: center;
+}
+
+.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-item {
+	margin-top: 40px;
+} 
+
+.ultra-gold-enhancement {
+	background-color: #0b0d0e;
+	padding-bottom: 40px;
+}
+
+.ultra-gold-enhancement .enhancement-items img {
+	width: auto;
+}
+
+.ultra-gold-enhancement h2 {
+	font-size: 30px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #fff;
+	margin-bottom: 20px;
+	line-height: 1;
+	margin-top: 60px;
+}
+
+.ultra-gold-enhancement .enhancement-items-container {
+	margin-bottom: 32px;
+}
+
+.ultra-gold-enhancement .enhancement-items-container p {
+	margin-bottom: 0;
+}
+
+.ultra-gold-enhancement p {
+	color: #fff;
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 14px;
+	line-height: 28px;
+	margin-bottom: 32px;
+}
+
+.ultra-gold-enhancement img {
+	width: 100%;
+}
+
+.ultra-gold-enhancement p.enhancement-items {
+	margin-bottom: 10px;
+}
+
+.ultra-gold-secret {
+	background-color: #f2d23a;
+	background-image: url('../images/secret-bg.png');
+	padding-top: 130px;
+	background-size: cover;
+    background-position: center;
+    padding-bottom: 130px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.ultra-gold-secret h2, .ultra-gold-secret h3 {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #000;
+	text-transform: uppercase;
+	margin-bottom: 0;
+	line-height: 0.9;
+}
+
+.ultra-gold-secret h2 {
+	font-size: 36px;
+	margin-bottom: 30px;
+}
+
+.ultra-gold-secret h3 {
+	font-size: 26px;
+	margin-top: 70px;
+}
+
+.ultra-gold-secret p {
+	font-family: 'Montserrat-SemiBold', sans-serif;
+	font-size: 16px;
+	color: #000;
+}
+
+.ultra-gold-secret img {
+	width: 100%;
+}
+
+.ultra-gold-secret .ultra-gold-secret-footer {
+	position: absolute;
+	bottom: 0px;
+	background-color: #b64a01;
+	height: auto;
+	width: 100%;
+	bottom: 0px;
+	line-height: 100px;
+	opacity: 0.9;
+}
+
+.ultra-gold-secret .ultra-gold-secret-footer  p {
+	text-align: center;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 42px;
+	color: #fff;
+	margin-bottom: 0;
+	line-height: 1;
+	padding-top: 20px;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	background-color: #000;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item {
+	width: 100%;
+	text-align: center;
+	padding-top: 28px;
+	padding-bottom: 20px;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item .ultra-gold-improvement-img {
+	height: 65px;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item img {
+	margin-bottom: 18px;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item.odd {
+	background-color: #000;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item.even {
+	background-color: #070707;
+}
+
+.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item p {
+	font-family: 'Montserrat-Bold', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	margin-bottom: 0;
+}
+
+.ultra-gold-ingredient-items {
+	background-color: #fff;
+	padding-top: 117px;
+	padding-bottom: 160px;
+}
+
+.ultra-gold-ingredient-items .heading-items {
+	text-align: center;
+	max-width: 846px;
+	margin: 0 auto 45px;
+}
+
+.ultra-gold-ingredient-items .heading-items h2 {
+	color: #000000;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 46px;
+	line-height: 1;
+	margin-bottom: 18px;
+}
+
+.ultra-gold-ingredient-items .heading-items p {
+	font-family: 'Montserrat-SemiBold', sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #000;
+	margin-bottom: 0;
+}
+
+.ultra-gold-ingredient-items .ingredient-specification {
+	text-align: center;
+	color: #000;
+	margin-bottom: 30px;
+}
+
+.ultra-gold-ingredient-items .ingredient-specification img {
+	width: 100%;
+}
+
+.ultra-gold-ingredient-items .ingredient-specification h4 {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 32px;
+	margin-top: 20px;
+	margin-bottom: 16px;
+}
+
+.ultra-gold-ingredient-items .ingredient-specification p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 0;
+}
+
+.ultra-gold-satisfaction {
+	background-color: #0b0d0e;
+	padding-top: 90px;
+	padding-bottom: 80px;
+}
+
+.ultra-gold-satisfaction .satisfaction-details {
+	padding-top: 50px;
+}
+
+.ultra-gold-satisfaction .satisfaction-details h2 {
+	font-size: 34px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #fff;
+	line-height: 1;
+	margin-bottom: 28px;
+}
+
+.ultra-gold-satisfaction .satisfaction-details p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	margin-bottom: 35px;
+	line-height: 28px;
+}
+
+.ultra-gold-satisfaction .satisfaction-guaranteed {
+	text-align: center;
+}
+
+.ultra-gold-satisfaction .satisfaction-guaranteed img {
+	width: 100%;
+}
+
+.ultra-gold-honesty {
+	background-image: url('../images/honesty-integrity.png');
+	padding-top: 100px;
+	padding-bottom: 0px; 
+	background-position-x: 55%;
+	position: relative;
+}
+
+.ultra-gold-honesty .honesty-details h2 {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	color: #fff;
+	font-size: 48px;
+	margin-bottom: 25px;
+	line-height: 0.9;
+}
+
+.ultra-gold-honesty .honesty-details p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	color: #fff;
+	margin-bottom: 35px;
+}
+
+.ultra-gold-order {
+	background-image: url('../images/order.png');
+	padding-top: 80px;
+	color: #fff;
+	background-color: #14181f;
+	background-size: 1000%;
+	padding-bottom: 50px;
+}
+
+.ultra-gold-order .order-bottle {
+	margin-top: 40px;
+}
+
+.ultra-gold-order .order-bottle img {
+	width: 100%;
+}
+
+.ultra-gold-order .order-bottle-details {
+	margin-bottom: 10px;
+	margin-top: 50px;
+}
+
+.ultra-gold-order .order-bottle-details .order-price {
+	font-family: 'BebasNeue-Regular', sans-serif;
+	font-size: 42px;
+	margin-bottom: 20px;
+}
+
+.ultra-gold-order .order-bottle-details .order-items {
+	font-size: 24px;
+	font-family: 'BebasNeue-Regular', sans-serif;
+}
+
+.ultra-gold-order .order-bottle-details .order-get-start {
+	font-family: 'Montserrat-SemiBold', sans-serif;
+	font-size: 28px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.ultra-gold-order .order-bottle-details .delivery-content {
+	font-family: 'Montserrat-Medium', sans-serif;
+	font-size: 18px;
+	margin-bottom: 24px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.ultra-gold-order .order-bottle-details .delivery-content img {
+	position: relative;
+	bottom: 6px;
+	margin-right: 5px;
+}
+
+.ultra-gold-order .order-bottle-details .delivery-content span {
+	margin-bottom: 20px;
+}
+
+.ultra-gold-order .order-bottle-details .delivery-content span:first-child {
+	margin-right: 50px;
+}
+
+.ultra-gold-order .order-disclaimer {
+	border: 1px solid #6e7b93;
+	background-color: #1c212a;
+	border-radius: 10px;
+	max-width: 676px;
+	margin: 72px auto 0;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	padding-left: 32px;
+	-webkit-box-shadow: 10px 10px 18px -10px #1c212a;
+	box-shadow: 10px 10px 18px -10px #1c212a;
+}
+
+.ultra-gold-order .order-disclaimer p {
+	font-family: 'Montserrat-Regular', sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	margin-bottom: 0;
+	color: #6e7b93;
+}
+
+.ultra-gold-order .order-bottle-details .order-btn {
+	text-align: center;
+}
+
+.ultra-gold-order .order-bottle-details .order-btn img {
+	width: 250px;
+}
+
+@media (min-width: 370px) {
+	header nav .bag-img {
+		display: inline-block;
+	}
+}
+
+@media (min-width: 450px) {
+	.ultra-gold-ingredient-items .ingredient-specification img {
+		width: auto;
+	}	
+}
+
+@media (min-width: 520px) {
+	.ultra-gold-satisfaction .satisfaction-guaranteed img {
+		width: auto;
+	}
+
+	header nav .bag-img {
+		margin-right: 30px;
+	}
+}
+
+@media (min-width: 576px) {
+	header nav .navbar-collapse {
+		width: 97%;
+	}
+
+	header nav .navbar-brand img {
+		width: 100%;
+	}
+
+	.what-ultra-gold {
+		padding-top: 120px;
+		padding-bottom: 110px;
+	}
+
+	.what-ultra-gold .what-ultra-gold-articles .what-article-item {
+		padding-top: 36px;
+		padding-left: 52px;
+		padding-right: 50px;
+		padding-bottom: 36px;
+	}
+
+	.what-ultra-gold .what-ultra-gold-details .what-ultra-gold-items {
+		font-size: 24px;
+	}
+
+	.what-ultra-gold .what-ultra-gold-details .what-ultra-gold-items img {
+		position: relative;
+		bottom: 4px;
+	}
+
+	.reason-section .reason-section-items .reason-section-item {
+		width: 48%;
+		margin-bottom: 30px;
+	}
+
+	header .header-title h2 {
+		font-size: 72px;
+	}
+
+	header .header-main-content .header-details h4 {
+		font-size: 32px;
+	}
+
+	header .header-main-content .header-details .header-details-info .information {
+		font-size: 20px;
+	}
+
+	header .header-main-content .header-details .header-details-info .buy-now {
+		width: 186px;
+	}
+
+	.reason-section .reason-title {
+		font-size: 104px;
+	}
+
+	.reason-section .reason-title-plain {
+		font-size: 24px;
+		line-height: 1;
+	}
+
+	.what-ultra-gold .what-ultra-gold-details .ultra-gold-title {
+		font-size: 60px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+		height: 120px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content h5 {
+		height: 50px;
+	}
+
+	.six-benefits-gold .six-benefits-heading h2 {
+		font-size: 96px;
+	}
+
+	.six-benefits-gold .six-benefits-heading h3 {
+		font-size: 56px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content {
+		padding-left: 35px;
+		padding-right: 35px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+		font-size: 16px;
+	}
+
+	.ultra-gold-ingredients h2 {
+		font-size: 42px;
+	}
+
+	.ultra-gold-ingredients p {
+		font-size: 24px;
+	}
+
+	.ultra-gold-benefits .benefits-items .benefit-item {
+		width: 40%;
+	}
+
+	.ultra-gold-benefits .benefits-items .benefit-item img {
+		width: 100%;
+	}
+
+	.ultra-gold-benefits .benefits-items .benefit-item p {
+		font-size: 20px;
+	}
+
+	.ultra-gold-real-success .heading-content h2 {
+		font-size: 50px;
+	}
+
+	.ultra-gold-real-success .heading-content p {
+		font-size: 18px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content {
+		padding-left: 35px;
+		padding-right: 35px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner .plain-content { 
+		font-size: 16px;
+		line-height: 32px;
+	}
+
+	.ultra-gold-enhancement img {
+		width: auto;
+	}
+
+	.ultra-gold-enhancement h2 {
+		font-size: 36px;
+		margin-top: 120px;
+	}
+
+	.ultra-gold-enhancement p {
+		font-size: 16px;
+	}
+
+	.ultra-gold-secret img {
+		width: auto;
+	}
+
+	.ultra-gold-secret h2 {
+		font-size: 56px;
+	}
+
+	.ultra-gold-secret h3 {
+		font-size: 32px;
+	}
+
+	.ultra-gold-secret p {
+		font-size: 18px;
+	}
+
+	.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item {
+		width: 50%;
+	}
+
+	.ultra-gold-ingredient-items .heading-items h2 {
+		font-size: 60px;
+	}
+
+	.ultra-gold-ingredient-items .heading-items p {
+		font-size: 18px;
+		line-height: 26px;
+	}
+
+	.ultra-gold-satisfaction .satisfaction-details h2 {
+		font-size: 42px;
+	}
+
+	.ultra-gold-honesty {
+		background-position-x: 60%;
+	}
+
+	.ultra-gold-honesty .honesty-details h2 {
+		font-size: 66px;
+	}
+
+	.ultra-gold-order .order-bottle-details .order-items {
+		font-size: 32px;
+	}
+
+	.ultra-gold-order .order-bottle-details .order-get-start {
+		font-size: 31px;
+	}
+
+	.ultra-gold-order .order-bottle-details .order-btn {
+		text-align: left;
+	}
+
+	.ultra-gold-order .order-bottle-details .order-btn img {
+		width: 398px;
+	}
+
+	.ultra-gold-order .order-bottle-details .delivery-content {
+		display: block;
+	}
+}
+
+@media (min-width: 768px) {
+	.reason-section .reason-section-items .reason-section-item {
+		margin-bottom: 30px;
+		width: 30%;
+	}
+
+	.what-ultra-gold .what-ultra-gold-details .ultra-gold-title {
+		font-size: 104px;
+	}
+
+	.what-ultra-gold .what-ultra-gold-details .what-ultra-plain {
+		margin-right: 90px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+		height: 220px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content h5 {
+		height: 75px;
+	}
+
+	.six-benefits-gold .six-benefits-heading h2 {
+		font-size: 164px;
+	}
+
+	.six-benefits-gold .six-benefits-heading h3 {
+		font-size: 104px;
+	}
+
+	.ultra-gold-ingredients h2 {
+		font-size: 60px;
+	}
+
+	.ultra-gold-ingredients .ingredient-bottle img {
+		width: unset;
+	}
+
+	.ultra-gold-benefits .benefits-items .benefit-item {
+		width: 30%;
+	}
+
+	.ultra-gold-benefits .benefits-headeing h2 {
+		font-size: 72px;
+	}
+
+	.ultra-gold-benefits .benefits-headeing p {
+		font-size: 20px;
+		line-height: 32px;
+	}
+
+	.ultra-gold-benefits {
+		padding-top: 190px;
+		padding-bottom: 130px;
+	}
+
+	.ultra-gold-real-success .heading-content h2 {
+		font-size: 70px;
+	}
+
+	.ultra-gold-real-success .heading-content p {
+		font-size: 24px;
+	}
+
+	.ultra-gold-enhancement h2 {
+		font-size: 62px;
+	}
+
+	.ultra-gold-secret h2 {
+		font-size: 82px;
+	}
+
+	.ultra-gold-secret h3 {
+		font-size: 54px;
+	}
+
+	.ultra-gold-secret p {
+		font-size: 20px;
+	}
+
+	.ultra-gold-secret h3 {
+		margin-top: 140px;
+	}
+
+	.ultra-gold-secret .ultra-gold-secret-footer {
+		height: 91px;
+	}
+
+	.ultra-gold-secret .ultra-gold-secret-footer p {
+		line-height: 91px;
+		padding-top: 0;
+	}
+
+	.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item {
+		width: 33%;
+	}
+
+	.ultra-gold-ingredient-items .heading-items h2 {
+		font-size: 82px;
+	}
+
+	.ultra-gold-ingredient-items .heading-items p {
+		font-size: 20px;
+	}
+
+	.ultra-gold-honesty {
+		background-position-x: 75%;
+	}
+
+	.ultra-gold-honesty .honesty-details h2 {
+		font-size: 100px;
+	}
+}
+
+@media (min-width: 992px) {
+	.what-ultra-gold {
+		background: -o-linear-gradient(left, #ffffff 0%,#ffffff 70%,#0b0d0e 50%,#0b0d0e 100%);
+		background: -webkit-gradient(linear, left top, right top, from(#ffffff),color-stop(70%, #ffffff),color-stop(50%, #0b0d0e),to(#0b0d0e));
+		background: linear-gradient(to right, #ffffff 0%,#ffffff 70%,#0b0d0e 50%,#0b0d0e 100%);
+	}
+
+	.what-ultra-gold .what-ultra-gold-details {
+		margin-top: 150px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+		height: 160px;
+	}
+
+	.ultra-gold-ingredients .ingredient-bottle img {
+		position: absolute;
+		top: -160px;
+		right: -88px;
+	}
+
+	.ultra-gold-ingredients h2 {
+		margin-top: 0;
+	}
+
+	.ultra-gold-benefits .benefits-items .benefit-item {
+		width: 19%;
+	}
+
+	.ultra-gold-benefits .benefits-items {
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+	}
+
+	.ultra-gold-real-success .heading-content h2 {
+		font-size: 104px;
+	}
+
+	.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item {
+		width: 20%;
+	}
+
+	.ultra-gold-improvement .ultra-gold-improvement-items {
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+	}
+
+	.ultra-gold-satisfaction .satisfaction-guaranteed {
+		text-align: right;
+	}
+
+	.ultra-gold-honesty {
+		background-position-x: 100%;
+	}
+
+	.ultra-gold-order .order-bottle-details {
+		margin-top: 0;
+	}
+}
+
+@media (min-width: 1200px) {
+	header {
+		background-position-x: right; 
+	}
+
+	.reason-section .reason-section-items {
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+	}
+
+	.reason-section .reason-section-items .reason-section-item {
+		width: 17%;
+	}
+
+	header .header-bottle-container img {
+		max-width: 100%;
+	}
+
+	header .header-bottle-container {
+		text-align: right;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+		height: 210px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content h5 {
+		height: 70px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner {
+		margin-top: 40px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide {
+		height: 85%;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-next, .ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-control-prev {
+		top: 100%;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner .plain-content {
+		margin-right: 60px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-item {
+		margin-top: 0;
+	}
+
+	.ultra-gold-ingredient-items .ingredient-specification {
+		margin-bottom: 0;
+	}
+}
+
+@media (min-width: 1300px) {
+	.six-benefits-gold .container, .ultra-gold-ingredients .container {
+		max-width: 1280px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content {
+		padding-left: 60px;
+		padding-right: 65px;
+	}
+}
+
+@media (min-width: 1420px) {
+	header .container, .reason-section .container, .ultra-gold-ingredient-items .container, .ultra-gold-secret .container, .ultra-gold-enhancement .container .ultra-gold-real-success .container, .what-ultra-gold .container, .ultra-gold-benefits .container {
+		max-width: 1370px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner {
+		margin-top: 100px;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide {
+		height: 70%;
+	}
+
+	.ultra-gold-real-success .ultra-gold-succcess-content .carousel.slide .carousel-inner p.pages {
+		margin-top: 100px;
+	}
+
+	.ultra-gold-improvement .ultra-gold-improvement-items .ultra-gold-improvement-item p {
+		width: 55%;
+		margin: 0 auto;
+		font-size: 18px;
+	}
+}
+
+@media (min-width: 1400px) {
+	.six-benefits-gold .container {
+		max-width: 1380px;
+	}
+}
+
+@media (min-width: 1470px) {
+	header .header-bottle-container img {
+		position: relative;
+		left: 60px;
+	}
+}
+
+@media (min-width: 1500px) {
+	.six-benefits-gold .container {
+		max-width: 1480px;
+	}
+
+	.ultra-gold-order .order-bottle img {
+		width: auto;
+		position: relative;
+    	right: 320px;
+	}
+}
+
+@media (min-width: 1570px) {
+	header .header-bottle-container img {
+		position: relative;
+		left: 100px;
+	}
+}
+
+@media (min-width: 1620px) {
+	.six-benefits-gold .container {
+		max-width: 1620px;
+	}
+
+	.six-benefits-gold .six-benefits-cards .six-benefits-card-item .six-text-content p {
+		height: 170px;
+	}
+}
+
+
+  
+ 

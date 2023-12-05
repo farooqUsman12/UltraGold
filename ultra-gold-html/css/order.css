@@ -1,0 +1,654 @@
+div.header {
+	padding-top: 35px;
+}
+
+.container.main {
+	background-color: #20252e;
+}
+
+.container.order-title {
+	max-width: 850px;
+	padding: 50px 10px;
+	margin-top: 30px;
+}
+
+.w-100 {
+	margin: 0 auto;
+}
+
+.container.order-title .section-title, .start-order-bg .title h1 {
+	font-size: 42px;
+	line-height: 42px;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.container.order-title .caption {
+	font-size: 18px;
+	line-height: 52px;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+.order-product {
+	padding: 50px 15px 70px;
+}
+
+.order-product .product-img {
+	margin: 0 auto 30px;
+}
+
+.container.order-product .product-img img {
+	width: 100%;
+}
+
+.container.order-product p.price {
+	font-family: 'Bebas Neue', cursive;
+	color: #ffffff;
+	font-size: 42px;
+	line-height: 28px;
+	margin: 15px 0px;
+}
+
+.container.order-product p.prodeuct-desc {
+	display: flex;
+}
+
+.container.order-product p.prodeuct-desc span.check-mark {
+	padding-top: 6px;
+}
+
+.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+	font-size: 30px;
+	color: #000000;
+	background-color: #eec400;
+	border-radius: 50%;
+}
+
+.container.order-product p.prodeuct-desc .p-desc {
+	font-size: 32px;
+	font-weight: 500;
+	font-family: 'Bebas Neue', cursive;
+	color: #ffffff;
+	padding-left: 10px;
+}
+
+h3.get-start {
+	font-size: 30px;
+	line-height: 28px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.container.order-product .owner .check-mark {
+	margin-top: -10px;
+}
+
+.container.order-product .owner p.prodeuct-desc .p-desc {
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
+
+.container.order-product .owner {
+	display: flex;
+	justify-content: space-between;
+}
+
+.start-order-bg {
+	background-image: url(../images/shutterstock_491080435.png);
+	padding: 110px 10px;
+}
+
+.start-order-bg .drop-down img {
+	width: 50px;
+	margin-top: 20px;
+}
+
+
+.start-order-bg .made-in-usa {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 73px;
+}
+
+.risk-free img {
+	width: 100%;
+}
+
+.start-order-bg .made-in-usa .risk-free {
+	margin: 0px 39px;
+}
+
+
+.bg-color {
+	background-color: #1a1e26;
+}
+
+.bg-color .info-steps {
+	max-width: 1000px;
+	padding: 90px 15px;
+	border-bottom: 1px solid #2c323f;
+}
+
+
+.bg-color .title-info {
+	margin: 40px 0px;
+}
+
+.bg-color .title-info h3 {
+	font-size: 48px;
+	font-weight: 500;
+	font-family: 'Bebas Neue', cursive;
+	color: #ffffff;
+}
+
+.bg-color .title-info p {
+	font-size: 18px;
+	font-weight: 100;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+}
+
+.bg-color .info-steps form {
+	width: 100%;
+	text-align: center;
+}
+
+.bg-color .info-steps button {
+	width: 300px;
+	background-color: #eec400;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 36px;
+	color: #000000;
+	margin-top: 25px;
+	border: none;
+}
+
+.bg-color .info-steps button:focus, .bg-color .info-steps button:active {
+	background-color: #eec400 !important;
+	color: #000 !important;
+	box-shadow: none !important;
+}
+
+.bg-color .info-steps .payment-option {
+	max-width: 570px;
+	margin: 0 auto;
+}
+
+.bg-color .info-steps .choose-option {
+	display: flex;
+}
+
+.bg-color .info-steps .method {
+	display: flex;
+	padding-left: 20px;
+}
+
+.info-steps .method .method-logo {
+	margin: 0px 10px;
+    width: 40px;
+    height: 15px;
+}
+
+.info-steps .method .method-logo img {
+	width: 100%;
+}
+
+.info-steps .choose-option .form-check-label {
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: 300;
+}
+
+.info-steps .form-group .form-check-label {
+	color: #a1a1a1;
+	font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: left;
+    width: 100%;
+}
+
+.bg-color .info-steps .card-info {
+	max-width: 520px;
+	margin: 0 auto;
+}
+
+.bg-color .info-steps p.order-terms {
+	font-size: 14px;
+	font-weight: 100;
+	font-family: 'Montserrat', sans-serif;
+	color: #b5bccc;
+	margin: 30px 0px;
+	text-align: left;
+}
+
+.info-steps .form-check.agree-btn {
+	border: 1px solid #5a5f69;
+	border-radius: 6px;
+	padding: 25px 50px;
+}
+
+
+.info-steps .form-check.agree-btn .form-check-label {
+    color: #ffffff;
+  	font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.info-steps .form-check.agree-btn .form-check-label a {
+	color: #eec400;
+	text-decoration: underline;
+}
+
+.info-steps .item-price {
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #2c323f;
+    margin-top: -55px;
+}
+
+.info-steps .item-price p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	color: #ffffff;
+	margin-bottom: 30px;
+}
+
+.info-steps .product-items-price {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 80px;
+	padding: 0 20px;
+}
+
+.info-steps .img-name {
+	display: flex;
+}
+
+.info-steps .img-name .prdct {
+	width: 80px;
+}
+
+
+.info-steps .img-name .prdct img {
+	width: 100%;
+}
+
+.info-steps .img-name .product-name {
+	padding-left: 60px;
+	display: block;
+	padding-top: 15px;
+}
+
+.info-steps .product-items-price .total-price {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	color: #eec400;
+}
+
+.info-steps .product-name p, .product-items-price .total-price.clr {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	color: #ffffff;
+	margin-bottom: 0px;
+}
+
+.info-steps .product-name span {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #ffffff;
+}
+
+.container.last-section {
+	max-width: 1000px;
+	padding: 50px 15px;
+}
+
+.container.last-section .shipping-tax, .container.last-section .pay-total-price  {
+	max-width: 250px;
+	display: flex;
+	justify-content: space-between;
+	margin-left: auto;
+
+}
+
+.last-section .shipping-tax p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #ffffff;
+	width: 100%;
+}
+
+.container.last-section .pay-total-price p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	color: #eec400;
+	width: 100%;
+}
+
+.container.last-section .bottom-text {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #6e7b93;
+	background-color: #1c212a;
+	border: 1px solid #282f3b;
+	border-radius: 8px;
+	max-width: 640px;
+	margin: 0 auto;
+	margin-top: 80px;
+	padding: 20px 30px;
+	text-align: center;	
+}
+
+.bag-img {
+	display: none;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+nav.navbar .navbar-brand img {
+	width: 200px;
+}
+
+@media (min-width: 370px) {
+	.bag-img {
+		display: inline-block;
+	}
+}
+
+@media (min-width: 520px) {
+	.bag-img {
+		margin-right: 30px;
+	}
+}
+
+@media (min-width: 576px) {
+	nav.navbar .navbar-brand img {
+		width: 100%;
+	}
+}
+
+@media (min-width: 1420px) {
+	.container {
+		max-width: 1370px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1199px) {
+	.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+		font-size: 26px;
+	}
+
+	.container.order-product p.prodeuct-desc .p-desc {
+		font-size: 28px;
+	}
+
+	h3.get-start {
+		font-size: 25px;
+	}
+
+	.container.order-product .owner p.prodeuct-desc .p-desc {
+		font-size: 14px;
+	}
+}
+
+
+
+
+
+@media (max-width:1024px) {
+	.bg-color .info-steps form {
+		padding: 0px 35px;
+	}
+}
+
+
+
+
+
+@media (max-width:850px) {
+	.container.order-title .section-title, .start-order-bg .title h1 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+
+	.container.order-title .caption {
+		font-size: 14px;
+		line-height: 36px;
+	}
+}
+
+
+
+
+
+@media (max-width:767px) {
+	.start-order-bg {
+		padding: 50px 0px;
+	}
+} 
+
+
+
+
+
+
+
+@media (max-width:600px) {
+	.container.order-title {
+		max-width: 450px;
+	}
+
+	.container.order-title .section-title, .start-order-bg .title h1 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+
+	.container.order-title .caption {
+		font-size: 10px;
+		line-height: 10px;
+	}
+
+	.bg-color .title-info {
+		margin: 20px 0px;
+	}
+
+	.bg-color .info-steps {
+		padding: 40px 20px;
+	}
+
+	.bg-color .info-steps .choose-option {
+		display: block;
+		margin-bottom: 40px;
+	}
+
+	.bg-color .info-steps .method {
+		padding-left: 0px;
+		margin-top: 8px;
+	}
+} 
+
+
+
+
+
+
+@media (max-width:576px) {
+	.start-order-bg .made-in-usa {
+		display: block;
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.start-order-bg .made-in-usa .risk-free {
+		width: 50%;
+		margin: 30px auto;
+	}
+}
+
+
+
+
+@media (max-width:570px) {
+	.order-product .product-img {
+		max-width: 450px;
+	}
+
+	.container.order-product p.price {
+		font-size: 36px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+		font-size: 22px;
+	}
+
+	.container.order-product p.prodeuct-desc .p-desc {
+		font-size: 24px;
+	}
+
+	h3.get-start {
+		font-size: 22px;
+	}
+}
+
+
+
+
+
+
+@media (max-width:450px) {
+	.container.order-title {
+		max-width: 315px;
+	}
+
+	.container.order-title .section-title, .start-order-bg .title h1 {
+		font-size: 14px;
+		line-height: 15px;
+	}
+
+	.container.order-title .caption {
+		font-size: 7px;
+		line-height: 10px;
+	}
+
+	.order-product {
+		padding: 0px 15px 70px;
+	}
+
+	.order-product .product-img {
+		max-width: 200px;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+
+	.container.order-product p.price {
+		font-size: 33px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark .fal.fa-check-circle {
+		font-size: 18px;
+	}
+
+	.container.order-product p.prodeuct-desc .p-desc {
+		font-size: 20px;
+	}
+
+	h3.get-start {
+		font-size: 16px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark {
+		width: 24px;
+		height: 20px;
+	}
+
+	.container.order-product p.prodeuct-desc span.check-mark img {
+		width: 100%;
+	}
+
+	.container.order-product .owner p.prodeuct-desc .p-desc {
+		font-size: 10px;
+		padding-left: 5px;
+	}
+
+	.start-order-bg .made-in-usa .risk-free {
+		width: 35%;
+	}
+
+	.bg-color .info-steps button {
+		width: 190px;
+		font-size: 24px;
+	}
+
+	.info-steps .form-check.agree-btn {
+		padding: 15px 25px;
+	}
+
+	.info-steps .form-check.agree-btn .form-check-input {
+		margin-left: -1rem;
+	}
+
+	.info-steps .form-check.agree-btn .form-check-label {
+		font-size: 10px;
+	}
+}

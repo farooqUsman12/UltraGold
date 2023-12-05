@@ -1,0 +1,256 @@
+html {
+  	scroll-behavior: smooth;
+}
+
+.container.main {
+	max-width: 100%;
+	padding: 0px;
+}
+
+.container.main .footer {
+	background-color: #0b0d0e;
+	font-family: 'Montserrat', sans-serif;
+	padding: 65px 0px;
+}
+
+
+.container.main .footer .row {
+	width: 100%;
+}
+
+.container.main .footer .logo-bttm {
+	font-size: 14px;
+	color: #767f84;
+	max-width: 315px;
+	margin: 15px 0px;
+}
+
+.container.main .footer .last-heading {
+	font-size: 13px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #ffffff;
+}
+
+.container.main .footer .last-heading.number {
+	font-size: 22px;
+	color: #eec400;
+}
+
+.container.main .footer .ques-pay {
+	display: flex;
+}
+
+.container.main .footer .payment {
+	padding-left: 50px;
+}
+
+.container.main .footer .ques-pay .method {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.container.main .footer .ques-pay .method .method-logo {
+	margin: 0px 10px;
+	width: 25px;
+	height: 15px;
+}
+
+.container.main .footer .ques-pay .method .method-logo img {
+	width: 100%;
+	height: auto;
+}
+
+.container.main .footer ul.links {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 70px;
+}
+
+
+.container.main .footer ul.links li a.items {
+	font-size: 13.2px;
+	font-weight: 500;
+	color: #767f84;
+}
+
+.container.main .footer .divider {
+	border-bottom: 1px solid #2c323f;
+}
+
+.container.main .footer .all-rights {
+	font-size: 12px;
+	font-weight: 500;
+	color: #767f84;
+}
+
+.wrapper-overlay {
+	display: none;
+}
+
+.wrapper-overlay.open {
+	display: block;
+	position: fixed;
+    background-color: rgba(35,35,35,.7);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    cursor: pointer;
+    z-index: 4;
+}
+
+.side-menu .main-menu .nav-bar ul {
+	padding-left: 0;
+	list-style: none;
+	margin: 0;
+}
+
+.side-menu .main-menu .nav-bar li {
+	border-bottom: 1px solid #ebebeb;
+}
+
+.side-menu .main-menu .nav-bar li a {
+	padding: 13px 20px 11px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #232323;
+	font-size: 13px;
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Montserrat-Bold', sans-serif;
+}
+
+.side-menu {
+	position: fixed;
+  	height: 100vh;
+  	top: 0;
+  	left: -200vw;
+  	visiblity: hidden;
+  	background: #fff; 
+  	-webkit-transition: left .5s, visibility 1s; 
+  	-o-transition: left .5s, visibility 1s; 
+  	transition: left .5s, visibility 1s;
+}
+
+.side-menu.open {
+	visibility: visible;
+    left: 0;
+    z-index: 9999;
+}
+
+.close-button {
+	right: inherit;
+    left: 0px;
+    visibility: hidden;
+    position: fixed;
+    background: var(--bg_sale);
+    z-index: 33;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    background-color: #e95144;
+    border: none;
+    font-size: 28px;
+    color: #fff;
+}
+
+.side-menu.open .close-button {
+	visibility: visible;
+	left: 337px;
+	webkit-transition: all .6s ease;
+	-o-transition: all .6s ease;
+	transition: all 0.6s;
+}
+
+.close-button .icon-line {
+	background-color: rgba(255,255,255,0);
+	display: block;
+    width: 24px;
+    height: 2px;
+    margin: 3px 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+
+.close-button .icon-line .before {
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+	top: 12px;
+	left: 8px;
+	display: inline-block;
+	background-color: #fff;
+	width: 24px;
+	height: 2px;
+	position: absolute;
+}
+
+.close-button .icon-line .after {
+	-webkit-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	top: 12px;
+	left: 8px;
+	display: inline-block;
+	background-color: #fff;
+	width: 24px;
+	height: 2px;
+	position: absolute;
+}
+
+@media (max-width:600px) {
+	.container.main .footer {
+		padding: 50px 10px;
+		padding-bottom: 25px;
+	}
+}
+
+
+@media (max-width:500px) {
+	.container.main .footer .ques-pay {
+		flex-direction: column;
+	}
+
+	.container.main .footer .payment {
+		padding-left: 0px;
+	}
+
+	.container.main .footer .ques-pay .method {
+		justify-content: normal;
+	}
+} 
+
+@media (min-width: 480px) {
+	.side-menu.open {
+		width: 337px;
+	}
+}
+
+@media (max-width: 479px) {
+	.side-menu.open {
+		width: -ms-calc(100% - 40px);
+		width: calc(100% - 40px);
+	    width: -moz-calc(100% - 40px);
+	}
+
+	.side-menu.open .close-button {
+		left: -ms-calc(100% - 40px);
+		left: calc(100% - 40px);
+	    left: -moz-calc(100% - 40px);
+	}
+
+	.close-button {
+		left: 0px;
+	}
+}
+
+
+@media (min-width: 1420px) {
+	.footer footer .container {
+		max-width: 1370px;
+	}
+}
